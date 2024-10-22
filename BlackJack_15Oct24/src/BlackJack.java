@@ -149,7 +149,7 @@ public class BlackJack {
 	
 	
 	
-	BlackJack() {
+	public BlackJack() {
 		// startGame();  //I Commented this out to enable next game feaure 
 		frame.setVisible(true);
 		frame.setSize(boardwidth, boardHeight);
